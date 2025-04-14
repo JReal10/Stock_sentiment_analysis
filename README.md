@@ -1,22 +1,17 @@
-# Stock Sentiment Analyzer Using Reddit Data
+# RedditRadar: Stock Sentiment Analyzer
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/JReal10/Reddit-Stock-Sentiment-Analyzer?include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/JReal10/Reddit-Stock-Sentiment-Analyzer)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/JReal10/Reddit-Stock-Sentiment-Analyzer)
-![GitHub](https://img.shields.io/github/license/JReal10/Reddit-Stock-Sentiment-Analyzer)
-![contributors](https://img.shields.io/github/contributors/JReal10/Reddit-Stock-Sentiment-Analyzer)
-![codesize](https://img.shields.io/github/languages/code-size/JReal10/Reddit-Stock-Sentiment-Analyzer)
+![image](https://github.com/user-attachments/assets/4d0fd4ad-5d93-4d86-8a4f-d718020e9c88)
 
 > A Streamlit-based application that analyzes the sentiment of Reddit comments related to a given stock.
 
-**Live App:** [Stock Sentiment Analyzer Using Reddit Data](https://redditsentiments.streamlit.app/)
+**Live App:** [RedditRadar: Stock Sentiment Analyzer](https://redditsentiments.streamlit.app/)
 ## Demo Preview
 
 [▶️ Watch Demo on YouTube](https://youtu.be/61AYNse7rF4)
 
 ## Project Overview
 
-The Reddit Stock Sentiment Analyzer project aims to provide a comprehensive analysis of the sentiment surrounding a specific stock based on comments from the Reddit community. By leveraging natural language processing techniques, this application extracts and visualizes the sentiment of Reddit discussions, allowing users to gain insights into the overall market sentiment for a particular stock.
+The RedditRadar project aims to provide a comprehensive analysis of the sentiment surrounding a specific stock based on comments from the Reddit community. By leveraging natural language processing techniques, this application extracts and visualizes the sentiment of Reddit discussions, allowing users to gain insights into the overall market sentiment for a particular stock.
 
 ## Installation and Setup
 
