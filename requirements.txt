@@ -26,7 +26,7 @@ regex==2024.11.6
 
 # Additional libraries used in data pipelines or transformations
 pyarrow==18.0.0  # Only if working with Apache Arrow data
-pillow==11.0.0   # If image processing is required
+pillow==12.3.0   # If image processing is required
 altair==5.4.1    # Alternative visualization library, if applicable
 
 # Optional utilities for working with structured JSON or other data formats
